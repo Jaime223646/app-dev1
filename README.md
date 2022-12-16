@@ -13,15 +13,13 @@
 
 # 📝 Content Summary
 <details>
-  <<summary> TABLE OF CONTENTS </summary>
+  <summary> TABLE OF CONTENTS </summary>
   <ol>
     <li><a href="##monogatari-series">Monogatari Series</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#death-note">Death Note</a></li>
+    <li><a href="#bungo-stray-dogs">Bungo Stray Dogs</a></li>
+    <li><a href="#steins-gate">Steins Gate</a></li>
+    <li><a href="#ajin">Ajin</a></li>
   </ol>
 </details>
 
